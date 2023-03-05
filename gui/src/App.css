@@ -1,0 +1,19 @@
+
+
+span{
+  background:linear-gradient(to bottom,rgb(23, 55, 239),rgb(231, 14, 255)) ;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 3px, 0 0 5px;
+
+}
+
+.head{
+  background:linear-gradient(to bottom,rgb(23, 55, 239),rgb(231, 14, 255)) ;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 3px, 0 0 5px;
+}
+::-webkit-scrollbar { 
+  display: none; 
+}

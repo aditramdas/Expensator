@@ -1,0 +1,14 @@
+li{
+    display: flex;
+    justify-content: space-around;
+    margin:10px ;
+    background: rgb(146, 145, 145,0.15);
+    box-shadow: 0 0 1px rgba(255,255,255,0.5);
+    padding:10px 20px ;
+    border-radius:10px ;
+}
+
+
+h2{
+    color: white;
+}
