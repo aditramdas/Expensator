@@ -1,3 +1,4 @@
+![alt text](https://github.com/aditramdas/Expensator/blob/main/Expense.png?raw=true)
 # Expensator
 
 Expensator, a solution to one of the most clumsily managed things, finance. Our tool is a desktop app that displays your expenses in an easy-to-understand manner, segregated based on your needs. The data for this app is taken from the bank statements using Gmail API. The data is locally processed in the user's machine, ensuring data security. The data can either be displayed in the modern desktop-app or it can be seen as a consolidated Excel Sheet, giving the user option to choose. 
