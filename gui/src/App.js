@@ -4,9 +4,12 @@ import card from "../src/projects";
 import image from './img.jpeg';
 import AOS from 'aos';
 import 'aos/dist/aos.css' 
+import runPythonScript from './python';
+
 
 
 function App() {
+
 
   AOS.init({
     offset: 200,
@@ -15,6 +18,9 @@ easing: 'ease-out',
 delay: 200,
 });
 
+runPythonScript();
+
+  
 
   return (
     <div className="App bg-gradient-to-b from-slate-900 via-indigo-700 to-fuchsia-800 h-screen over p-8 flex justify-evenly items-center">
